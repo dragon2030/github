@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: G003759
+Build-Jdk: 1.8.0_91
+Implementation-Title: springboot_jsp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bigDragon
+Main-Class: ${start-class}
+
